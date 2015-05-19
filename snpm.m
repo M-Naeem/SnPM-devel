@@ -102,7 +102,7 @@ elseif strcmpi(Action,'CreateMenuWin')
 spm_jobman('initcfg');
 % Open batch window
 spm_jobman('interactive');
-disp('SnPM13 tools are available in the SPM batch window under SPM -> Tools -> SnPM')
+disp('SnPM13 tools are available in the SPM batch window under SPM -> Tools -> SnPM.')
 
 else
 %=======================================================================
